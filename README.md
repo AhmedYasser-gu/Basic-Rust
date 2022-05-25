@@ -1,7 +1,6 @@
 # Basic-Rust
-Full basic app using Rust , fetching newsapi data / displaying it in GUI 
+ Very Simple app using Rust , fetching Newsapi data / displaying it in GUI 
  
-Under work!!
 
 To build and run :
 
